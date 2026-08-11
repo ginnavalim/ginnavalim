@@ -4,12 +4,13 @@ Estudante de Engenharia de Software, apaixonada pela sensação de criar algo do
  
 <div>
   <a href="https://www.linkedin.com/in/giovanna-valim-muchinski-58428439a/" target="_blank">
-    <img height="35" alt="linkedin logo" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" />
+    <img height="35" alt="telegram logo" src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
   <a href="mailto:giovannamuchinski@gmail.com" target="_blank">
-    <img height="35" alt="gmail logo" src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" />
+    <img height="35" alt="gmail logo" src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
 </div>
+
 <br/>
 Sou estudante de Engenharia de Software, com foco em **Desenvolvimento Web** e aprofundando conhecimentos em **Python**. Um pouco mais sobre mim:
  
